@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm currently working on data field
+Hi, I'm Ibrahim Atthariq, an analytics engineer passionate about turning data into actionable insights. With expertise in data engineering and analytics, I design robust pipelines, analyze large datasets, and leverage cutting-edge tools like Python, SQL, and Tableau.
 
+I thrive on solving complex problems and bridging the gap between data and strategic decision-making. My goal is to empower organizations by unlocking valuable insights and optimizing processes. Let's collaborate and harness the power of analytics to drive innovation and create measurable impact.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mia_thariq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mochammad Ibrahim Atthariq) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@evilzeda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/evilzeda) 
